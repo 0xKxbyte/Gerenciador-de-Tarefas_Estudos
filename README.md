@@ -38,6 +38,14 @@ Para Rodar:
 npm run dev
 ```
 
+Tailwind CSS:
+Este projeto utiliza **Tailwind CSS v4**.
+A instalação é feita através do `package.json`. Após clonar o projeto, execute:
+
+```bash
+npm install
+```
+
 Todas as bibliotecas e dependências utilizadas pelo projeto estão definidas no `package.json`. Caso seja necessário instalar ou atualizar alguma dependência, consulte esse arquivo.
 
 ## Estrutura
