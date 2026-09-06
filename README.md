@@ -38,7 +38,7 @@ Para Rodar:
 npm run dev
 ```
 
-Tailwind CSS:
+Tailwind CSS -
 Este projeto utiliza **Tailwind CSS v4**.
 A instalação é feita através do `package.json`. Após clonar o projeto, execute:
 
